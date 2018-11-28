@@ -1,3 +1,7 @@
+This package was integrated into the `esa_cci_sm package`_, therefore this package is obsolete and archived.
+
+.. _esa_cci_sm package: https://github.com/TUW-GEO/esa_cci_sm
+
 ============
 hsaf_cci_042
 ============
